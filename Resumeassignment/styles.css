@@ -1,0 +1,49 @@
+body {
+    font-family: Arial;
+    line-height: 1.4;
+    margin: 0;
+    padding: 20px;
+}
+
+.page{
+    page-break-after: always;
+    max-width: 800px;
+    margin: o auto;
+    padding: 20px;
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    
+}
+
+h1, h2 {
+    color: #131111;
+}
+
+h1 {
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 22px;
+    margin-top: 20px;
+}
+
+h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+    text-decoration: underline;
+}
+
+p {
+    margin: 5px 0;
+}
+
+
+.project, .experience {
+    margin-bottom: 20px;
+}
+
